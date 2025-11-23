@@ -98,3 +98,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/NeuroCode0/NeuroCode0/output/snake.svg" alt="Snake animation" />
+
+###
