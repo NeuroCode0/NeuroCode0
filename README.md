@@ -58,7 +58,7 @@
 
 ###
 
-<!-- <div align="left">
+<div align="left">
   <a href="https://www.instagram.com/neuro_code21/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -69,20 +69,19 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-</div> -->
+</div>
 
 ###
 
- <div align="center">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NeuroCode0.NeuroCode0&left_color=blue&right_color=red"  />
-</div> 
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeuroCode0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
