@@ -4,6 +4,10 @@
 
 <p align="left">اذا بدك مسار واضح لدخول عالم البرمجة،  هندسة البرمجيات ،علم البيانات، والذكاء الاصطناعي  وبمحتوى عملي فانت وصلت لبداية مشروعنا.<br> Neuro Code<br> ينطلق كل 3 ايام رح نضيف شروحات، مسارات، ومشاريع حقيقية.</p>
 
+<pre> If you're looking for a clear path to enter the world of programming, software engineering, data science, and artificial intelligence, with practical content, then you've come to the right place.
+
+Neuro Code
+We'll be adding tutorials, pathways, and real-world projects every three days.</pre>
 ###
 
 <br clear="both">
